@@ -1,6 +1,6 @@
 {
   "name": "dsh-memory-nebula",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Cross-device memory nebula: fuzzy retrieval, tiered memories that never fade, gradual compression after 100 days, and an interactive star map.",
   "license": "MIT",
   "keywords": [
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raging007/dsh-memory-nebula.git"
+    "url": "git+https://github.com/raging007/memory-nebula.git"
   }
 }
